@@ -33,6 +33,6 @@ app.use('/connection',Connection)
 
 app.listen(3001,()=>{
 
-    console.log("api running on 3000");
+    console.log("api running on 3001");
 
 })
